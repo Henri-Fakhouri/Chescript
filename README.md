@@ -1,6 +1,7 @@
 # Chescript
 
 A Senior Project Submitted in Partial Fulfillment of the Requirements for the Bachelor&#39;s Degree in Computer Science
+
 Department of Computer Science - Faculty of Natural and Applied Sciences
 Notre Dame University – Louaize - North Lebanon
 
