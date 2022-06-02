@@ -1,19 +1,10 @@
 # Chescript
 
-A Senior Project Submitted in Partial Fulfillment of the Requirements for the Bachelor&#39;s Degree
+A Senior Project Submitted in Partial Fulfillment of the Requirements for the Bachelor&#39;s Degree in Computer Science
+Department of Computer Science - Faculty of Natural and Applied Sciences
+Notre Dame University – Louaize - North Lebanon
 
-in
-
-Computer Science
- Department of Computer Science
-
-Faculty of Natural and Applied Sciences
- Notre Dame University – Louaize
- North Lebanon
-
-Henri Fakhouri
-
-Jihad Kouzi
+Henri Fakhouri, Jihad Kouzi
 
 January 2020
 
