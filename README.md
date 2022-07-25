@@ -21,13 +21,15 @@ A PHP web app with a built in chess engine using JS.
 
 **Server:** PHP
 
+**Database:** MySQL
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Henri-Fakhouri/Chescript.git
 ```
 
 Go to the project directory
@@ -39,7 +41,7 @@ Go to the project directory
 Install easyPHP
 
 ```bash
-  npm install
+ https://www.easyphp.org/save-easyphp-devserver-latest.php
 ```
 
 Start the server
