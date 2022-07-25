@@ -44,10 +44,10 @@ Install easyPHP
  https://www.easyphp.org/save-easyphp-devserver-latest.php
 ```
 
-Start the server
+Start the server using easyPHP
 
 ```bash
-  npm run start
+  (https://www.easyphp.org/documentation/devserver/getting-started.php#:~:text=Start%20Database%20Server&text=Two%20ways%20%3A-,right%2Fleft-click%20on%20the%20icon%20in%20the%20Notification%20Area,server%20will%20start%20as%20well).)
 ```
 
 
