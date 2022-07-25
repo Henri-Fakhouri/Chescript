@@ -32,12 +32,6 @@ Clone the project
   git clone https://github.com/Henri-Fakhouri/Chescript.git
 ```
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
 Install easyPHP
 
 ```bash
@@ -47,7 +41,7 @@ Install easyPHP
 Start the server using easyPHP
 
 ```bash
-  (https://www.easyphp.org/documentation/devserver/getting-started.php#:~:text=Start%20Database%20Server&text=Two%20ways%20%3A-,right%2Fleft-click%20on%20the%20icon%20in%20the%20Notification%20Area,server%20will%20start%20as%20well).)
+  https://www.easyphp.org/documentation/devserver/getting-started.php
 ```
 
 
